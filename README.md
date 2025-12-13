@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aurafarmerone&label=Profile%20views&color=0e75b6&style=flat" alt="AuraFarmerOne" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/aurafarmerone/" target="blank"><img src="https://img.shields.io/twitter/follow/27abhi27?logo=twitter&style=for-the-badge" alt="AuraFarmerOne" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/aurafarmerone/" target="blank"><img src="https://img.shields.io/twitter/follow/@AuraFarmerOne?logo=linkedin&style=for-the-badge" alt="AuraFarmerOne" /></a> </p>
 
 - 💬 Ask me about **Data Science, Python, MySQL**
 
