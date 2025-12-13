@@ -3,9 +3,9 @@
 <h3 align="center">Hey there! I'm a curious mind who loves exploring the world of data and discovering the stories hidden within it. I enjoy building things, breaking things (accidentally, of course), and figuring out how to make them better. When I'm not working with data, you might find me lost in a good book, experimenting with side projects, or wondering why my last bug fix broke everything else. Always learning, always questioning—welcome to my GitHub</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pysolanki&label=Profile%20views&color=0e75b6&style=flat" alt="AuraFarmerOne" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aurafarmerone&label=Profile%20views&color=0e75b6&style=flat" alt="AuraFarmerOne" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thepysolanki" target="blank"><img src="https://img.shields.io/twitter/follow/27abhi27?logo=twitter&style=for-the-badge" alt="AuraFarmerOne" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/aurafarmerone/" target="blank"><img src="https://img.shields.io/twitter/follow/27abhi27?logo=twitter&style=for-the-badge" alt="AuraFarmerOne" /></a> </p>
 
 - 💬 Ask me about **Data Science, Python, MySQL**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AuraFarmerOne" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pysolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AuraFarmerOne" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aurafarmerone/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AuraFarmerOne" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/AuraFarmerOne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="AuraFarmerOne" height="30" width="40" /></a>
 <a href="https://kaggle.com/@AuraFarmerOne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@AuraFarmerOne" height="30" width="40" /></a>
 <a href="https://medium.com/@AuraFarmerOne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@AuraFarmerOne" height="30" width="40" /></a>
